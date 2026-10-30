@@ -1,0 +1,19 @@
+{
+    "id": "bonsPoints",
+    "name": "Bons Points",
+    "description": {
+        "fr_FR": "Suivi éducatif d'un enfant : points en plus et en moins, score par semaine de garde, paliers de récompense, historique et bilan hebdomadaire.",
+        "en_US": "Child behaviour tracking: plus and minus points, weekly score, reward levels, history and weekly report."
+    },
+    "licence": "AGPL",
+    "author": "Anthony",
+    "require": "4.2",
+    "category": "organization",
+    "hasDependency": false,
+    "hasOwnDeamon": false,
+    "maxDependancyInstallTime": 0,
+    "documentation": "",
+    "changelog": "",
+    "issue": "",
+    "language": ["fr_FR"]
+}
